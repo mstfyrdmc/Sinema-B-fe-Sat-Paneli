@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje_2_Sinema Büfe Satış Paneli\Proje_2_Sinema Büfe Satış Paneli\bin\Debug\Proje_2_Sinema Büfe Satış Paneli.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje_2_Sinema Büfe Satış Paneli\Proje_2_Sinema Büfe Satış Paneli\bin\Debug\Proje_2_Sinema Büfe Satış Paneli.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje_2_Sinema Büfe Satış Paneli\Proje_2_Sinema Büfe Satış Paneli\bin\Debug\Proje_2_Sinema Büfe Satış Paneli.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje_2_Sinema Büfe Satış Paneli\Proje_2_Sinema Büfe Satış Paneli\obj\Debug\Proje_2_Sinema Büfe Satış Paneli.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje_2_Sinema Büfe Satış Paneli\Proje_2_Sinema Büfe Satış Paneli\obj\Debug\Proje_2_Sinema_Büfe_Satış_Paneli.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje_2_Sinema Büfe Satış Paneli\Proje_2_Sinema Büfe Satış Paneli\obj\Debug\Proje_2_Sinema_Büfe_Satış_Paneli.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje_2_Sinema Büfe Satış Paneli\Proje_2_Sinema Büfe Satış Paneli\obj\Debug\Proje_2_Sinema Büfe Satış Paneli.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje_2_Sinema Büfe Satış Paneli\Proje_2_Sinema Büfe Satış Paneli\obj\Debug\Proje_2_Sinema Büfe Satış Paneli.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje_2_Sinema Büfe Satış Paneli\Proje_2_Sinema Büfe Satış Paneli\obj\Debug\Proje_2_Sinema Büfe Satış Paneli.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\Proje_2_Sinema Büfe Satış Paneli\Proje_2_Sinema Büfe Satış Paneli\obj\Debug\Proje_2_Sinema Büfe Satış Paneli.pdb
